@@ -7,5 +7,17 @@
       "pass": "password",
       "repeatpass": "password"
     }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "category": "Family",
+      "bedType": "Single",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/31jgoap1cQL._SY445_SX342_QL70_FMwebp_.jpg",
+      "roomType": "AC",
+      "numOfAdults": 5,
+      "maxCapacity": 2,
+      "costPerNight": 1000
+    }
   ]
 }
